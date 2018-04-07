@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<dimen name="tabText">16dp</dimen>
+<dimen name="homeHeaderWidth">83dp</dimen>
+<dimen name="homeHeaderHeight">50dp</dimen>
+<dimen name="homeHeaderTextSize">40sp</dimen>
+<dimen name="textSize">14sp</dimen>
+<dimen name="margins">16dp</dimen>
+<dimen name="listImageSize">100</dimen>
+</resources>
